@@ -9,11 +9,12 @@ entries:
 
   - title: english poems
     post_list:
-      category: _poems_en
+      category: poems_en
       show_more: false
 
   - title: german poems
-    post_list: 
+    post_list:
+      category: poems_de
       show_more: false
 
   - title: contact
