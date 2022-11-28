@@ -4,8 +4,8 @@ email: jchburmester@outlook.com # email of site's author
 url: https://jchburmester.github.io/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  a space where i decode feelings and thoughts. some poems are in german, some in english.
-  take your time before you start reading. leave a note if you wish. the encoding is continuing.
+  this is a space where i decode feelings and thoughts. some of them are in german, some in english.
+  i suggest you to find a calm & peaceful (inner) space before you start reading. leave a note if you wish. the encoding continues...
 
 permalink: /:slug.html
 
