@@ -26,6 +26,3 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-<script data-goatcounter="https://jchburmester.goatcounter.com/count"
-      async src="//gc.zgo.at/count.js"></script>
