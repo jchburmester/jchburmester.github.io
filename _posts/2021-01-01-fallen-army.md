@@ -5,7 +5,7 @@ category: poems_en
 
 ![fallen army](/P1050119.jpg){:.ioda}
 
-Like soldiers feared the gun,__
+Like soldiers feared the gun,<br />
 flowers now dread the sun.__
 In the heat of the battle they freeze,__
 hanging heads, hoping to breathe.
