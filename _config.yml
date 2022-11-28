@@ -26,11 +26,3 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-params:
-features:
-  analytics:
-    enabled: true
-    goatCounter:
-      code: <script data-goatcounter="https://jchburmester.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
