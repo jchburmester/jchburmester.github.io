@@ -23,8 +23,8 @@ entries:
 
   - title: contact
     entries:
-      - title: e-mail
-        url: <a href="mailto:jchburmester@outlook.com">Send Email</a>
+      - title:
+        url: <a href="mailto:jchburmester@outlook.com">send an e-mail</a>
       - title: instagram
         url: https://www.instagram.com/jch_bu/
 
