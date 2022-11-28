@@ -8,7 +8,8 @@ entries:
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
   - title: english poems
-    post_list: 
+    post_list:
+      category: _poems_en
       show_more: false
 
   - title: german poems
