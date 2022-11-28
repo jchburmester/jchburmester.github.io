@@ -33,5 +33,5 @@ will you fear the descend<br />
 or will you welcome and crave for the end?
 
 <br />
-___
-jch.burmester
+<div align="right">___</div>
+<div align="right">jch.burmester</div>
