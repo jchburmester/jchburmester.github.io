@@ -74,5 +74,5 @@ Let us love what was given to us as a gift.<br />
 Have a wonderful 2021.
 
 <br />
-
-<div align="center"> jch.burmester</div>
+___
+jch.burmester
