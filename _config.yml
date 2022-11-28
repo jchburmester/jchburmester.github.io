@@ -4,11 +4,11 @@ email: jchburmester@outlook.com # email of site's author
 url: https://jchburmester.github.io/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  a site to share my poems.
 
 permalink: /:slug.html
 
-favicon: "leafgreen.png" # name+extension of favicon (which must be put on the root folder)
+favicon: "leaf.png" # name+extension of favicon (which must be put on the root folder)
 # goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
 
 remote_theme: riggraz/no-style-please # if you are using GitHub Pages, change it to remote_theme: riggraz/no-style-please
