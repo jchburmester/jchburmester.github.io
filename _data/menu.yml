@@ -7,6 +7,11 @@ entries:
   #    - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
   #    - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
+  - title: coming soon
+    post_list:
+      category: soon
+      show_more: false
+
   - title: english poems
     post_list:
       category: poems_en
