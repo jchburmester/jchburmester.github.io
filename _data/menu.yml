@@ -9,17 +9,11 @@ entries:
 
   - title: english poems
     post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+      show_more: false
 
   - title: german poems
     post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more: false
 
   - title: contact
     entries:
