@@ -56,5 +56,5 @@ verstehen nichts
 und schlafen irgendwann wieder ein.
 
 <br />
-<div align="right">___</div><br />
+<div align="right">___</div>
 <div align="right">jch.burmester</div>
