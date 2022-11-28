@@ -6,7 +6,7 @@ baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're sit
 description: > # description of the site (multiple lines allowed)
   a space where i decode feelings and thoughts. some poems are in german, some in english.
   take your time before you start reading. leave a note if you wish.
-  
+  the encoding is continuing.
 
 permalink: /:slug.html
 
