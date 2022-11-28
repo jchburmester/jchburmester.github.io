@@ -3,7 +3,7 @@ layout: post
 category: poems_en
 ---
 
-![fallen army](/P1050119.jpg){:.ioda}
+![fallen army](/P1050119.jpg){filter: invert(0%);}
 <br />
 
 Like soldiers feared the gun,<br />
