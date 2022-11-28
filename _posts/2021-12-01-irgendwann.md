@@ -2,7 +2,7 @@
 layout: post
 category: poems_de
 ---
-++
+
 <br />
 
 wir wachen irgendwann auf
@@ -56,5 +56,5 @@ verstehen nichts
 und schlafen irgendwann wieder ein.
 
 <br />
-<div align="right">___</div>
+<div align="right">___</div><br />
 <div align="right">jch.burmester</div>

@@ -2,7 +2,7 @@
 layout: post
 category: poems_en
 ---
-++
+
 <br />
 
 panic, a burst of fear<br />
@@ -41,5 +41,5 @@ stranded here, hand in hand<br />
 you watch me until the end.
 
 <br />
-<div align="right">___</div>
+<div align="right">___</div><br />
 <div align="right">jch.burmester</div>
