@@ -41,5 +41,5 @@ stranded here, hand in hand<br />
 you watch me until the end.
 
 <br />
-<div align="right">___</div><br />
+<div align="right">___
 <div align="right">jch.burmester</div>
