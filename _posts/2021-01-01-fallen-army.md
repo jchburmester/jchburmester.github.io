@@ -3,7 +3,7 @@ layout: post
 category: poems_en
 ---
 
-![fallen army](/P1050119.jpg){filter: invert(0%);}
+![fallen army](/P1050119.jpg){:.ioda; filter: invert(0%);}
 <br />
 
 Like soldiers feared the gun,<br />
@@ -75,4 +75,4 @@ Have a wonderful 2021.
 
 ---
 
-<div align="center"> jch burmester</div>
+<div align="center"> jch.burmester</div>
