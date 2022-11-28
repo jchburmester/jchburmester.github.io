@@ -34,4 +34,4 @@ or will you welcome and crave for the end?
 
 <br />
 
-<div align="center"> jch.burmester</div>
+jch.burmester
