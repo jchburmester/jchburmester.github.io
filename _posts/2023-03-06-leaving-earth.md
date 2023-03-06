@@ -39,7 +39,7 @@ every night we dream<br />
 dream of other seas, of other kinds<br />
 dream in soulmates of our minds<br />
 dare to test what else could be<br />
-dare to loose and break us free
+dare to lose and break us free
 
 every night we arrive<br />
 arrive at a fresh and free site<br />
