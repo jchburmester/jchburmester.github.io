@@ -10,10 +10,11 @@ category: poems_en
 <div align="left">inside our thought, inside our speech
 <div align="left">inside our reason, inside our reach
 <div align="left">what else is there that we could know?
-<div align="left">what else can we think, where else can we go?<
+<div align="left">what else can we think, where else can we go?
 <div align="left">a small idea for us to grow
 <div align="left">a short time for us to glow.
 
+<br />
 <br />
 
 <div align="right">we live inside our doubts and limit
@@ -23,8 +24,9 @@ category: poems_en
 <div align="right">what else is there that we can't grasp?
 <div align="right">what else is there that we should ask?
 <div align="right">a small glimpse for us to see
-<div align="right">a short time for us to be.<br />
+<div align="right">a short time for us to be.
 
+<br />
 <br />
 <div align="right">___
 <div align="right">jch.burmester</div>
