@@ -6,7 +6,7 @@ category: poems_en
 <br />
 
 <div align="left">we live outside our sense and spirit
-<div align="left">outside a world full of doubts and limit
+<div align="left">outside a world full of doubt and limit
 <div align="left">inside our thought, inside our speech
 <div align="left">inside our reason, inside our reach
 <div align="left">what else is there that we could know?
@@ -17,7 +17,7 @@ category: poems_en
 <br />
 <br />
 
-<div align="right">we live inside our doubts and limit
+<div align="right">we live inside our doubt and limit
 <div align="right">inside a world full of sense and spirit
 <div align="right">outside our thought, outside our speech
 <div align="right">outside our reason, outside our reach
