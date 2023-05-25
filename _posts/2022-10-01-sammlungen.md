@@ -25,7 +25,7 @@ geben halt und struktur<br />
 mal stärker, mal schwächer<br />
 tauchen sie ein, bleichen sie aus
 
-ein mensch, eine sammlung<br />
+der mensch, eine sammlung<br />
 nie vollkommen, nie ganz<br />
 mal stille, mal brandung<br />
 ein unendlicher tanz.
