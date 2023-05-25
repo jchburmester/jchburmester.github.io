@@ -34,7 +34,7 @@ gehen irgendwo hin<br />
 und kommen von irgendwo wieder
 
 wissen nichts<br />
-haben gelernt zu verstehen
+haben gelernt zu verstehen?
 
 wir folgen unseren gedanken<br />
 fangen an zu erzählen<br />
