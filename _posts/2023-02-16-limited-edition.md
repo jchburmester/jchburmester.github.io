@@ -22,7 +22,7 @@ bedrohlich, eindeutig und endgültig<br />
 das einsame holz im weißen schaum<br />
 so schön schimmert und glänzt es im trüben nass<br />
 fortschauen kann man wohl kaum<br />
-denn schon bald ist er aus, der traum.
+denn schon bald ist er aus, der traum.<br />
 <br />
 
 ein einsames blatt am lichten baum<br />
@@ -42,7 +42,7 @@ bedrohlich, eindeutig und endgültig<br />
 das einsame blatt am lichten baum<br />
 so schön schimmert und tanzt es über welkem laub<br />
 fortschauen kann man wohl kaum<br />
-denn schon bald ist er aus, der traum.
+denn schon bald ist er aus, der traum.<br />
 <br />
 
 ein einsames licht im weiten raum<br />
