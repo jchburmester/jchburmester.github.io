@@ -20,7 +20,7 @@ wie hat es geschafft so lange zu treiben?
 am horizont tut sich ein dunkler sturm auf<br />
 bedrohlich, eindeutig und endgültig<br />
 das einsame holz im weißen schaum<br />
-so schön schimmert und glänzt es im trüben nass<br />
+so schön schimmert und tanzt es im trüben nass<br />
 fortschauen kann man wohl kaum<br />
 denn schon bald ist er aus, der traum.<br />
 <br />
