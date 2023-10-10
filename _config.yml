@@ -5,7 +5,7 @@ url: https://jchburmester.github.io/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   a space where i decode feelings and thoughts. some of them are in german, some in english.
-  find a calm & peaceful (inner) space before you start reading. you may use the contact form to subscribe to updates or to leave a note. the encoding continues..
+  find a calm & peaceful (inner) space before you start reading. subscribe or follow me on instagram to get updates or to leave a note. the encoding continues..
 
 permalink: /:slug.html
 
