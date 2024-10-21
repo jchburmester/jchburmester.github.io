@@ -3,6 +3,60 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+  <!-- Title (keeps current setup) -->
+  <title>
+    {%- if page.title -%}
+      {{ page.title }}
+    {%- else -%}
+      {{ site.title }}
+    {%- endif -%}
+  </title>
+
+  <!-- Meta Description -->
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+
+  <!-- Meta Keywords -->
+  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}" />
+
+  <!-- Author Metadata -->
+  <meta name="author" content="{{ site.author }}">
+
+  <!-- Open Graph Metadata for social sharing (Facebook, LinkedIn) -->
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:image" content="{{ site.url }}/assets/images/social-image.jpg"> <!-- Adjust this image path -->
+  
+  <!-- Twitter Card Metadata for sharing on Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="twitter:image" content="{{ site.url }}/assets/images/social-image.jpg"> <!-- Adjust this image path -->
+
+  <!-- Jekyll SEO Tag (don't forget this, it helps generate other SEO tags) -->
+  {%- seo title=false -%}
+
+  <!-- Feed Meta Tag -->
+  {%- feed_meta -%}
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" />
+
+  <!-- CSS Stylesheet -->
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
+
+  <!-- Google Site Verification (for Search Console) -->
+  <meta name="google-site-verification" content="Kev87QWq3uVPpXtkW5QvI7ZQmSvbx2m8_56oyCF-K-I" />
+</head>
+
+<!--
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
   <title>
     {%- if page.title -%}
       {{ page.title }}
@@ -18,3 +72,5 @@
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
   <meta name="google-site-verification" content="Kev87QWq3uVPpXtkW5QvI7ZQmSvbx2m8_56oyCF-K-I" />
 </head>
+
+-->
