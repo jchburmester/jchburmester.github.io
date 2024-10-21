@@ -1,47 +1,5 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: "en" }}">
-  {%- include head.html -%}  <!-- Include head.html for meta tags and styles -->
-  
-  <body a="{{ site.theme_config.appearance | default: "auto" }}">
-    <main class="page-content" aria-label="Content">
-      <div class="w">
-        {{ content }}  <!-- Ensure content is rendered only once -->
-      </div>
-    </main>
-
-    {%- if site.goat_counter and jekyll.environment == "production" -%}
-      {%- include goat_counter.html -%}  <!-- Include GoatCounter only if conditions are met -->
-    {%- endif -%}
-
-    {% if page.custom_js %}  <!-- Include custom JS files if specified -->
-      {% for js_file in page.custom_js %}
-        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ js_file }}.js"></script>
-      {% endfor %}
-    {% endif %}
-
-    <!-- Structured Data for SEO -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Blog",
-      "name": "{{ site.title }}",
-      "url": "{{ site.url }}",
-      "description": "{{ site.description }}",
-      "author": {
-        "@type": "Person",
-        "name": "{{ site.author }}",
-        "email": "{{ site.email }}"
-      }
-    }
-    </script>
-  </body>
-</html>
-
-
-<!--
-
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: "en" }}">
   {%- include head.html -%}
   <body a="{{ site.theme_config.appearance | default: "auto" }}">
     <main class="page-content" aria-label="Content">
@@ -61,5 +19,3 @@
     {% endif %}
   </body>
 </html>
-
--->
