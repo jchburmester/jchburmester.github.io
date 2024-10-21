@@ -3,6 +3,42 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+  <!-- Title (keeps current setup) -->
+  <title>
+    {%- if page.title -%}
+      {{ page.title }}
+    {%- else -%}
+      {{ site.title }}
+    {%- endif -%}
+  </title>
+
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}" />
+  <meta name="author" content="{{ site.author }}">
+
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  
+  {%- seo title=false -%}
+
+  {%- feed_meta -%}
+
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}" />
+
+  <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
+
+  <meta name="google-site-verification" content="Kev87QWq3uVPpXtkW5QvI7ZQmSvbx2m8_56oyCF-K-I" />
+</head>
+
+<!--
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
   <title>
     {%- if page.title -%}
       {{ page.title }}
@@ -18,3 +54,5 @@
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
   <meta name="google-site-verification" content="Kev87QWq3uVPpXtkW5QvI7ZQmSvbx2m8_56oyCF-K-I" />
 </head>
+
+-->
